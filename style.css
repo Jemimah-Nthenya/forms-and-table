@@ -1,0 +1,46 @@
+#form{
+    border: solid 1px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 30%;
+}
+
+.input{
+    border: solid 1px;
+    width: 67%;
+    margin: 0 auto;
+    border-radius: 1px;
+}
+button{
+    border: solid 1px;
+    width: 60%;
+    margin: 0 auto;
+    background-color: black;
+    color: aliceblue;
+
+}
+#class{
+    border: solid 1px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 30%;
+}
+.input{
+    border: solid 1px;
+    width: 70;
+    margin: 0 auto;
+    border-radius: 1px;
+}
+button{
+    border: solid 1px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: black;
+    color: aliceblue;
+}
+#table, td, th{
+    border: solid 1px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+}
